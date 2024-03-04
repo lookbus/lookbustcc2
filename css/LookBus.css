@@ -1,0 +1,41 @@
+
+  footer {
+    position: fixed;
+    bottom:0;
+    left:0;
+    width: 100%;
+    padding-top: 10px;
+    text-align: center;
+  }
+
+.btnCadastrar{
+  padding-right: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btnEntrar{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-right: 10px;
+}
+
+.collapse{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer a {
+  text-decoration: none;
+  color: #000;
+}
+footer a:hover {
+  color:#fff
+}
+footer i {
+  margin:0 3px 0 10px;
+}
+footer span {
+  margin: 3px ;
+}
+
+li {
+  list-style-type: none;
+}
